@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularCRUDwiwthFirbase"
+    }
+  },
+  "defaultProject": "angularCRUDwiwthFirbase",
+  "cli": {
+    "analytics": "9e5eaf2b-dfea-471d-a639-3e19fb8ed3b3"
+  }
 }
